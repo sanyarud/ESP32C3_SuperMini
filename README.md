@@ -9,7 +9,7 @@ This project displays the current weather and time on an SSD1306 OLED display us
 
 ## Components
 
-- ESP32
+- ESP32С3 Super Mini
 - SSD1306 OLED Display
 - WiFi connection
 
